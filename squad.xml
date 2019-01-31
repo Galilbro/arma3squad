@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="MOB">
+	<name>Mother Base Weebs</name>
+	<email>galilbro@gmail.com</email>
+	<web></web>
+	<picture>gaylogo.paa</picture>
+	<title></title>
+
+<member id="76561198007845869" nick="Galilbro">
+		<name>Galilbro</name>
+		<email></email>
+		<icq>N/A</icq>
+		<remark>Weeb Machine</remark>
+</member>
+</squad>
